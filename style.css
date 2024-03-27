@@ -1,0 +1,104 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.abc{
+    margin-left: 300px;
+}
+.nav{
+    margin-right: 50px;
+    color:black
+}
+nav{
+    border-bottom: 1.5px solid black;
+
+}
+.logo{
+    margin-left: 20px;
+}
+.nav:hover{
+    color:rgb(77, 77, 77);
+    background-color: rgb(255, 204, 204);
+}
+.navbarclass{
+    background-color: rgb(255, 223, 223);
+}
+.About{
+    background-image: url(about.bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.dancing-script{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  padding-top: 70px;
+}
+.ab{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-top: 1.5px solid black;
+    margin-left: 2px;
+    padding-bottom: 50px;
+    border-bottom: 1.5px solid black;
+}
+p{
+    padding-top: 50px;
+    font-size: 17px;
+}
+.fheading{
+    margin-top: 100px;
+}
+#services{
+    padding-top: 100px;
+    background-image: linear-gradient(pink, rgb(255, 245, 245),pink);
+}
+h1{
+    font-size: 60px;
+}
+#servicepara{
+    margin-bottom: 50px;
+}
+.card{
+    border: 0.5px solid black;
+}
+
+.submit{
+    text-align: center;
+}
+.sbutton{
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(237, 85, 105);
+    color:rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+.sbutton:hover{
+    background-color: rgb(254, 250, 218);
+    color:rgb(237, 85, 105);
+    border: 3px solid rgb(237, 85, 105);
+    font-weight: bold;
+}
+#contactus{
+    border-top: 1.5px solid black;
+    padding: 100px;
+    background-image: linear-gradient(rgb(206, 239, 246),rgb(248, 248, 194),rgb(249, 205, 212));
+}
+.footer{
+    border-top: 1.5px solid black;
+    padding-bottom: 35px;
+    background-image: linear-gradient(pink,rgb(255, 147, 165));
+}
+#name{
+    color:rgb(205, 30, 68)
+}
